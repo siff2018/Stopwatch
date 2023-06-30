@@ -1,0 +1,67 @@
+body {
+    background-color: #f0f0f0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 90vh;
+    overflow: hidden;
+    align-items: center;
+  }
+  
+  #timer {
+    font-size: 7rem;
+    font-weight: 700;
+    text-shadow: 2px 2px #2410de;
+    color: #3b26f9;
+    width: 600px;
+    text-align: center;
+    margin: 40px auto;
+  }
+  
+  #buttons {
+    display: flex;
+    justify-content: center;
+  }
+
+  .container{
+    background-color:antiquewhite;
+    border: solid black 3px;
+    border-radius: 2px;
+  }
+  
+  button {
+    background-color: #3b26f9;
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    font-weight:500;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 2px 10px rgba(0, 0, 12, 0.3);
+    transition: all 0.2s;
+  }
+  
+  button:hover {
+    background-color: #5e7df8;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  button[disabled] {
+    opacity: 0.5;
+    cursor: default;
+  }
+  
+  @media (max-width: 800px) {
+    #timer {
+      font-size: 4rem;
+      width: 350px;
+    }
+  
+    button {
+      font-size: 1.5rem;
+      padding: 1rem 2rem;
+    }
+  }
