@@ -2,6 +2,7 @@
 
 The Stopwatch application is a simple timekeeping tool built using vanilla JavaScript, CSS, and HTML. It provides basic functionality with three buttons: **Start**, **Stop**, and **Reset**. The stopwatch counts time in seconds.
 
+
 ## Technologies Used
 
 - JavaScript
