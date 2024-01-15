@@ -1,6 +1,6 @@
 const startButtonEl = document.getElementById("start");
 
-//
+
 
 function startTimer() {
     startTime = Date.now() - elapsedTime;
