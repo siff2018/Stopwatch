@@ -15,5 +15,5 @@ function startTimer() {
   }
 
 
-==
+
   startButtonEl.addEventListener("click", startTimer);
