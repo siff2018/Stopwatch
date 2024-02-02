@@ -19,7 +19,7 @@ The stopwatch application offers the following features:
 
 
 
-dd
+ddd
 Please note that this application does not count time in milliseconds; it displays the time in seconds.
 
 ![Uploading KmpKmpTuttlingenGIF.gif…]()
