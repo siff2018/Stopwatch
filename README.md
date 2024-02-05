@@ -17,7 +17,7 @@ The stopwatch application offers the following features:
 - **Stop**: Pauses the stopwatch, temporarily halting the time count.
 - **Reset**: Resets the stopwatch to zero, clearing the elapsed time.
 d
-
+d
 
 
 Please note that this application does not count time in milliseconds; it displays the time in seconds.
