@@ -9,7 +9,8 @@ The Stopwatch application is a simple timekeeping tool built using vanilla JavaS
 - CSS
 - HTML
            
-## Functionality
+## Functionality 
+d
 
 The stopwatch application offers the following features:
 
