@@ -1,5 +1,5 @@
 const resetButtonEl = document.getElementById("reset");
-
+//===================================================
 function resetTimer() {
     clearInterval(timerInterval);
    // --------
@@ -9,5 +9,6 @@ function resetTimer() {
     startButtonEl.disabled = false;
     stopButtonEl.disabled = true;
   }
-
+///
   resetButtonEl.addEventListener("click", resetTimer);
+////////////////////////////////////////////////////////////
